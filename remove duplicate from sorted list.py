@@ -14,3 +14,4 @@ class Solution:
             else:
                 t = t.next
         return head
+    
